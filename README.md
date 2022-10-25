@@ -30,7 +30,7 @@ The pardon library functionality includes:
 
 ## Installation
 
-The easiest way to install and use pardon is to pip install using pip or pip using the latest pardon package whl file
+The easiest way to install and use pardon is to pip install using pip or the latest pardon package whl file.
 ```bash
 pip install pardon
 ```
