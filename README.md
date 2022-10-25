@@ -30,21 +30,12 @@ The pardon library functionality includes:
 
 ## Installation
 
-The easiest way to install and use pardon is to pip install the latest pardon package whl file
+The easiest way to install and use pardon is to pip install using pip or pip using the latest pardon package whl file
+```bash
+pip install pardon
+```
 ```bash
 pip install pardon-1.0.0-py3-none-any.whl
-```
-
-If a whl file is not present, you can create one by doing the following:
-```bash
-pip install wheel
-python setup.py bdist_wheel
-```
-
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the necessary dependencies using the requirements.txt file if not using the .whl file.
-
-```bash
-pip install -r requirements.txt
 ```
 
 ## Usage
