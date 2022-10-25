@@ -44,7 +44,7 @@ pip install pardon-1.0.0-py3-none-any.whl
 import pardon
 
 # create a new ML Data object. The minimum requirements are a data file or data stream, and the name of the column you're trying to predict.
-paml = pardon.MLData(data='\\your\\specified\\directory\\data_file.csv', target='column_name_to_predict')
+paml = pardon.Pardon(data='\\your\\specified\\directory\\data_file.csv', target='column_name_to_predict')
 
 # rapid ml will perform the following steps by default:
 # -> 1. Perform the minimum required data cleansing and transformation to prepare your data for model training.
