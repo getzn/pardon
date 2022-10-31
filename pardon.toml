@@ -1,0 +1,18 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "pardon"
+version = "1.2.9"
+authors = [
+  { name="pardon", email="pardonaccelerator@gmail.com" },
+]
+description = "Pardon is a Python library developed as a machine learning (ML) and data transformation accelerator, to rapidly prepare data as well as test and deploy supervised ML models, by massively reducing the amount of code required during development."
+readme = "README.md"
+requires-python = ">=3.6"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
