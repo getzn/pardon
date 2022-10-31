@@ -6,7 +6,7 @@ with open('requirements.txt') as f:
 
 setup(
     name='pardon',
-    version='1.2.9',
+    version='2.0.0',
     include_package_data=True,
     install_requires=required,
     packages=find_packages()
