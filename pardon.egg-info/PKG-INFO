@@ -1,6 +1,7 @@
 Metadata-Version: 2.1
 Name: pardon
-Version: 2.0.1
+Version: 2.0.2
+Summary: Data Transformation and Machine Learning Accelerator
 Description-Content-Type: text/markdown
 License-File: LICENSE
 
