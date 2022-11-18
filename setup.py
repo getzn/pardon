@@ -10,7 +10,7 @@ with open('requirements.txt') as f:
 
 setup(
     name='pardon',
-    version='2.0.1',
+    version='2.0.2',
     include_package_data=True,
     install_requires=required,
     description='Data Transformation and Machine Learning Accelerator',
