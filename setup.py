@@ -13,6 +13,7 @@ setup(
     version='2.0.1',
     include_package_data=True,
     install_requires=required,
+    description='Data Transformation and Machine Learning Accelerator',
     long_description=long_description,
     long_description_content_type='text/markdown',
     packages=find_packages()
