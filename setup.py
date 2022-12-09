@@ -10,7 +10,7 @@ with open('requirements.txt') as f:
 
 setup(
     name='pardon',
-    version='2.0.4',
+    version='2.0.5',
     python_requires='>=3.8.1, <3.11',
     include_package_data=True,
     install_requires=required,
