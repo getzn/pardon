@@ -10,10 +10,11 @@ with open('requirements.txt') as f:
 
 setup(
     name='pardon',
-    version='2.0.3',
+    version='2.0.4',
+    python_requires='>=3.8.1, <3.11',
     include_package_data=True,
     install_requires=required,
-    description='Data Transformation and Machine Learning Accelerator',
+    description='The Data Transformation and Machine Learning Accelerator',
     long_description=long_description,
     long_description_content_type='text/markdown',
     packages=find_packages()
